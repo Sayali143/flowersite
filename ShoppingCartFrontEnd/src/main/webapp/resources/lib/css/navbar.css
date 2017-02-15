@@ -1,0 +1,62 @@
+.nav_active
+{
+	background:#d9d9d9 !important;
+}
+.nav_li_name
+{
+	color:white!important;
+}
+.nav_li_name:hover
+{
+	background:#d9d9d9 !important;
+}
+.navbar{
+   margin-bottom:1px !important;
+}
+.slogan
+{		
+	text-align:center;
+}
+.header_top
+{
+	background:black;
+}
+.contactinfo
+{
+	color:white !important;
+}
+.contactinfo:hover
+{
+	background:black !important;
+	color:white !important;
+}
+.social-icons
+{
+	color:white !important;
+}
+#facebook:hover
+{
+	background:#008ae6 !important;
+}
+#twitter:hover
+{
+	background:#00cc99 !important;
+}
+#linkedin:hover
+{
+	background:#ff0000 !important;
+}
+#dribble:hover
+{
+	background:#006600 !important;
+}
+#google:hover
+{
+	background:#ff3300 !important;
+}
+.footer
+{
+	color:white !important;
+	font-size:15px;
+	text-decoration: none !important;
+}
